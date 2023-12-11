@@ -1,0 +1,3 @@
+A rede é composta por 4 hosts, 2 switch, 1 servidor e 1 roteador, nessa rede 2 hots são conectados por meio wireless e 2 por cabeamento.
+
+Nesta rede é utlizado um server de DHCP, e os switch direcionados para o envio inteligente para os hosts.

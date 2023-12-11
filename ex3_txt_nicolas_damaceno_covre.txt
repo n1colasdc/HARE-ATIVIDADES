@@ -1,0 +1,8 @@
+A rede estabelesce uma organização inteligente e completa onde o server é como se fosse o cerebro da rede e o switch fosse o coração, onde distribuie os pacotes de forma certa e precisa.
+
+
+HTTP: Se trata de do serviço da WEB
+
+DNS: Ele é um facilitador de acesso, onde transforma o IP em um nome.
+
+DHCP: É o responsavel por dar IP aos PCs da rede, tem a ideia de algo dinâmico.
